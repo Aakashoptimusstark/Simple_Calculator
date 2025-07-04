@@ -5,8 +5,11 @@ This is a **simple calculator web app** built using **HTML**, **CSS**, and **Jav
 
 ---
 
-##Demo
-![Calculator screenshot] (public\screenshot.png)
+
+## 📸 Demo Screenshot
+
+![Calculator Screenshot](./public/screenshot.png)
+
 
 
 ---

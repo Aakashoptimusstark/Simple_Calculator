@@ -6,7 +6,7 @@ This is a **simple calculator web app** built using **HTML**, **CSS**, and **Jav
 ---
 
 ##Demo
-[Calculator screenshot](public\screenshot.png)
+![Calculator screenshot] (public\screenshot.png)
 
 
 ---
